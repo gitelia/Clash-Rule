@@ -3,7 +3,7 @@ socks-port: 11028
 allow-lan: true
 ipv6: false
 mode: Rule
-log-level: debug
+log-level: info
 external-controller: 127.0.0.1:9090
 dns:
   enable: true
