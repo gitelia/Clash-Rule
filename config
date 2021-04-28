@@ -5,7 +5,6 @@ ipv6: false
 mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
-
 dns:
   enable: true
   ipv6: false
