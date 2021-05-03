@@ -14,7 +14,7 @@ ruleset=🎯 直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
-custom_proxy_group=🎯 直连`select`[]DIRECT`[]🐟 漏网之鱼
+custom_proxy_group=🎯 直连`select`[]DIRECT`[]🚀 火箭
 custom_proxy_group=📚 E变态`select`[]DIRECT`[]🐟 漏网之鱼
 custom_proxy_group=🦍 二刺螈`select`[]DIRECT`[]🐟 漏网之鱼
 custom_proxy_group=🎵 声破天`select`[]DIRECT`[]🐟 漏网之鱼
