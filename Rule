@@ -5,6 +5,7 @@ ruleset=📚 E变态,https://raw.githubusercontent.com/Nine499/Clash-Rule/master
 ruleset=🦍 二刺螈,https://raw.githubusercontent.com/Nine499/Clash-Rule/master/acg
 ruleset=🎵 声破天,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
+ruleset=🚀 火箭,https://raw.githubusercontent.com/gitelia/Clash-Rule/master/gitrule
 ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
@@ -18,7 +19,7 @@ custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
 custom_proxy_group=🎯 直连`select`[]DIRECT`[]🚀 火箭
 custom_proxy_group=📚 E变态`select`[]DIRECT`.*
 custom_proxy_group=🦍 二刺螈`select`[]DIRECT`.*
-custom_proxy_group=🎵 声破天`select`[]DIRECT`.*
+custom_proxy_group=🎵 声破天`select`[]DIRECT`.[]🚀 火箭
 custom_proxy_group=🎥 奈飞视频`select`[]DIRECT`.*
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]🎯 直连`.*
 
