@@ -15,6 +15,10 @@ dns:
     - 1.2.4.8
   nameserver:
     - tls://223.5.5.5:853
+  fallback:
+    - https://cloudflare-dns.com/dns-query
+    - tls://1.0.0.1:853
+    - https://dns.google/dns-query#
 tun:
   enable: true
   stack: system
