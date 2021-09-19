@@ -24,7 +24,7 @@ custom_proxy_group=🦍 二刺螈`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🎵 声破天`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🎥 奈飞视频`select`[]DIRECT`.*
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]🎯 直连`.*
-custom_proxy_group=🇯🇵 日本延迟最低`url-test`(日|解锁|ss)`http://www.gstatic.com/generate_204`300,5
+custom_proxy_group=🇯🇵 日本延迟最低`url-test`(日|5G|ss)`http://www.gstatic.com/generate_204`300,5
 
 enable_rule_generator=true
 overwrite_original_rules=true
