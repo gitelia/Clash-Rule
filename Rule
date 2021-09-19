@@ -12,7 +12,8 @@ ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitch.list
 ruleset=🎯 直连,https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
 ruleset=🎯 直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
-ruleset=🎯 直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list.
+ruleset=日本,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Dmm.list
 ruleset=🎯 直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
@@ -23,6 +24,7 @@ custom_proxy_group=🦍 二刺螈`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🎵 声破天`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🎥 奈飞视频`select`[]DIRECT`.*
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]🎯 直连`.*
+custom_proxy_group=日本
 
 enable_rule_generator=true
 overwrite_original_rules=true
