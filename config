@@ -21,4 +21,4 @@ dns:
     - https://dns.google/dns-query#
 tun:
   enable: true
-  stack: system
+  stack: gvisor
