@@ -27,7 +27,7 @@ custom_proxy_group=TG`select`(BGP)
 custom_proxy_group=📚 E变态`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🦍 二刺螈`select`[]DIRECT`[]🚀 火箭`.*
 custom_proxy_group=🎥 奈飞视频`select`[]DIRECT`[]🚀 火箭`(NF)
-custom_proxy_group=🇯🇵 日本延迟最低`select`(日本5G)
+custom_proxy_group=🇯🇵 日本延迟最低`select`(日本)
 custom_proxy_group=🎵 声破天`select`[]US`[]🚀 火箭
 custom_proxy_group=🐟 漏网之鱼`select`[]🎯 直连`[]🚀 火箭`.*
 
