@@ -21,7 +21,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 custom_proxy_group=🎯 直连`select`[]DIRECT`[]🚀 火箭
 custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
-custom_proxy_group=HK`select`(香港5G)
+custom_proxy_group=HK`select`(香港)
 custom_proxy_group=US`select`(美国)
 custom_proxy_group=TG`select`(BGP)
 custom_proxy_group=📚 E变态`select`[]DIRECT`[]🚀 火箭`.*
