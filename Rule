@@ -2,6 +2,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+ruleset=vrchat,https://raw.githubusercontent.com/FQrabbit/SSTap-Rule/master/rules/VRchat.rules
 ruleset=🎮 DMM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Dmm.list
 ruleset=🎵 声破天,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 ruleset=✈️ TG,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
@@ -14,17 +15,15 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-
-
-
 custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
 custom_proxy_group=🎮 DMM`select`[]日本`[]🚀 火箭
 custom_proxy_group=🎵 声破天`select`[]美国`[]🚀 火箭
 custom_proxy_group=✈️ TG`select`[]新加坡`[]香港`[]🚀 火箭
 custom_proxy_group=🚂 Steam`select`[]香港`[]🚀 火箭
+custom_proxy_group=vrchat`select`[]香港`[]美国`[]新加坡`[]🚀 火箭
 custom_proxy_group=香港`select`(港|HK|Hong Kong)
 custom_proxy_group=新加坡`select`(新加坡|坡|狮城|SG|Singapore|广新)
 custom_proxy_group=日本`select`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)
 custom_proxy_group=美国`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
 custom_proxy_group=🎯 全球直连`select`[]DIRECT
-custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]🎯 全球直连
+custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]日本`[]🎯 全球直连
