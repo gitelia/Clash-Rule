@@ -1,4 +1,4 @@
-port: 11027
+port: 7890
 socks-port: 11028
 allow-lan: true
 ipv6: false
@@ -8,7 +8,7 @@ external-controller: 0.0.0.0:9090
 dns:
   enable: true
   ipv6: false
-  listen: 0.0.0.0:1027
+  listen: 0.0.0.0:53
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   default-nameserver:
