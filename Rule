@@ -31,6 +31,6 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]日本`[]🎯 全球直连
 
 
-enable_rule_generator=true
-overwrite_original_rules=true
-clash_rule_base=https://raw.githubusercontent.com/gitelia/Clash-Rule/master/config
+#enable_rule_generator=true
+#overwrite_original_rules=true
+#clash_rule_base=https://raw.githubusercontent.com/gitelia/Clash-Rule/master/config
