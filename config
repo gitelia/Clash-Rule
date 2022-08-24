@@ -1,24 +1,18 @@
-port: 7890
-socks-port: 7891
-allow-lan: true
+mixed-port: 7893
+external-controller: 127.0.0.1:4949
+allow-lan: false
 ipv6: false
-mode: Rule
-log-level: info
-external-controller: 0.0.0.0:9090
+log-level: debug
+
+
 dns:
   enable: true
+  listen: 0.0.0.0:1027
   ipv6: false
-  listen: 0.0.0.0:53
+  default-nameserver:
+    - 114.114.114.114
+    - 223.5.5.5
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  default-nameserver:
-    - 1.2.4.8
   nameserver:
-    - tls://223.5.5.5:853
-  fallback:
-    - https://cloudflare-dns.com/dns-query
-    - tls://1.0.0.1:853
-    - https://dns.google/dns-query#
-tun:
-  enable: true
-  stack: System
+    - https://dns.alidns.com/dns-query
