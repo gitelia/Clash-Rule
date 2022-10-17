@@ -17,7 +17,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
+custom_proxy_group=🚀 火箭`select`[]香港`[]DIRECT`.*
 custom_proxy_group=oculus`select`[]DIRECT`[]美国`[]🚀 火箭
 custom_proxy_group=🎮 DMM`select`[]日本`[]🚀 火箭
 custom_proxy_group=🎵 声破天`select`[]美国`[]🚀 火箭
