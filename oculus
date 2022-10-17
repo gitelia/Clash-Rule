@@ -1,7 +1,7 @@
-DOMAIN-KEYWORD,connectivitycheck.gstatic.com
-DOMAIN-KEYWORD,www.google.com
-DOMAIN-KEYWORD,oculus.com
-DOMAIN-KEYWORD,graph.oculus.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN-SUFFIX,www.google.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,graph.oculus.com
 DOMAIN-SUFFIX,mqtt-mini.facebook.com
 DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,graph.facebook-hardware.com
