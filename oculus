@@ -1,0 +1,8 @@
+ DOMAIN-SUFFIX,connectivitycheck.gstatic.com,oculus
+ DOMAIN-SUFFIX,www.google.com,oculus
+ DOMAIN-SUFFIX,oculus.com,oculus
+ DOMAIN-SUFFIX,graph.oculus.com,oculus
+ DOMAIN-SUFFIX,mqtt-mini.facebook.com,oculus
+ DOMAIN-SUFFIX,in.appcenter.ms,oculus
+ DOMAIN-SUFFIX,graph.facebook-hardware.com,oculus
+ DOMAIN-SUFFIX,graph.facebook.com,oculus
