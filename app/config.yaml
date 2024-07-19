@@ -4,10 +4,10 @@ ipv6: false
 
 dns:
   enable: true
-  cache-algorithm: arc
   listen: 0.0.0.0:4953
   ipv6: false
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
   default-nameserver:
     - 119.29.29.29
   nameserver:
