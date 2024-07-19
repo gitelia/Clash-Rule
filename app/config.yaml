@@ -1,0 +1,14 @@
+mixed-port: 4949
+mode: rule
+ipv6: false
+
+dns:
+  enable: true
+  cache-algorithm: arc
+  listen: 0.0.0.0:4953
+  ipv6: false
+  enhanced-mode: redir-host
+  default-nameserver:
+    - 119.29.29.29
+  nameserver:
+    - 223.6.6.6

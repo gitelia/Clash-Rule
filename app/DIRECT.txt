@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,checkip.dyndns.com
+DOMAIN-SUFFIX,cn.fflogs.com

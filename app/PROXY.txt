@@ -1,0 +1,4 @@
+# 谷歌强制代理
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
