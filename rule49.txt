@@ -35,5 +35,3 @@ custom_proxy_group=韩国节点`select`(KR|Korea|KOR|首尔|韩|韓)
 
 enable_rule_generator=true
 overwrite_original_rules=true
-
-clash_rule_base=https://raw.githubusercontent.com/gitelia/Clash-Rule/master/app/config.yaml
